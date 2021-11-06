@@ -45,4 +45,4 @@ function fight(player1, player2, player1Health, player2Health) {
         };
     };
 
-fight('Iron Man', 'Captain America', 100, 100);
+fight('Tony Stark', 'Steve Rogers', 100, 100);
